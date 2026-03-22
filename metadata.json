@@ -1,0 +1,5 @@
+{
+  "name": "DAMS2",
+  "description": "Data Acquisition and Management System 2 with real socket networking for Android.",
+  "requestFramePermissions": []
+}
